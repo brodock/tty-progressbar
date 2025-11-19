@@ -571,6 +571,7 @@ There are number of preconfigured bar formats you can choose from.
 | `:diamond` | `♦♦♦♦♦♢♢♢♢♢` | `♢♦♢`         |
 | `:dot`     | `･･････････` | `･･･`         |
 | `:heart`   | `♥♥♥♥♥♡♡♡♡♡` | `♡♥♡`         |
+| `:nerdfont`| ``| ``         |
 | `:rectangle` | `▮▮▮▮▮▯▯▯▯▯` | `▯▮▯`       |
 | `:square`  | `▪▪▪▪▪▫▫▫▫▫` | `▫▪▫`         |
 | `:star`    | `★★★★★☆☆☆☆☆` | `☆★☆`         |

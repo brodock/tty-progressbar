@@ -1,5 +1,10 @@
 # Change log
 
+## unreleased 
+
+### Added
+* Add :nerdfont as a new supported :bar_format option
+
 ## [v0.18.3] - 2024-11-10
 
 ### Fixed

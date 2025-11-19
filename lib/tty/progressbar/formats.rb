@@ -79,6 +79,11 @@ module TTY
           incomplete: "♡",
           unknown: "♡♥♡"
         },
+        nerdfont: { # 
+          complete: "",
+          incomplete: "",
+          unknown: ""
+        },
         rectangle: { # ▮▮▮▮▮▯▯▯▯▯
           complete: "▮",
           incomplete: "▯",
